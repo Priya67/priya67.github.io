@@ -1,6 +1,8 @@
 # PACMAN
 
-A super fun game to play. A user can select different themes and difficulty levels.
+A super fun game to play. Pacman is a cute little guy that runs in 2-D direction, which is followed by scary monsters who tries to stop pacman from collecting points. If a monster catches pacman, then our hero dies.
+
+* **Cool Feature** A user can select different themes and difficulty levels.
 
 <br>
 
@@ -19,3 +21,22 @@ Still in progress
 - This game assign the user with badges on the basis of your performance
 
 - This game provides the user a feature to track lives left and points
+
+## Fuctionality & MVP
+
+- Create pacman and monsters of custom color and shapes
+
+- create whole maze structure for pacman to run
+
+- Implement sound effects when game starts packman collects treasure and when pacman dies
+
+- Able to implement blink feature where monsters are mortal for 10 seconds
+
+- Able to disguise pacman with a super power
+
+- Able to make pacman go from one direction and enter from another and have a power to shoot monter with gun power
+
+**Bonus**
+- Able to select different themes and treasure
+
+- Collect badges after each level
