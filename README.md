@@ -4,7 +4,7 @@ A super fun game to play. A user can select different themes and difficulty leve
 
 <br>
 
-* Link to play the game:
+ <p>Link to play the game:</p>
 
 ````
 Still in progress
