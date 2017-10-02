@@ -41,7 +41,7 @@ Still in progress
 
 - Collect badges after each level
 
-# Wireframes
+## Wireframes
 
 - This app will consist of a single screen with the simulation canvas, playback controls and nav links to the Github, my LinkedIn, and the About and Details modals.
 
