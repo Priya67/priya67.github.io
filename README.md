@@ -40,3 +40,13 @@ Still in progress
 - Able to select different themes and treasure
 
 - Collect badges after each level
+
+# Wireframes
+
+- This app will consist of a single screen with the simulation canvas, playback controls and nav links to the Github, my LinkedIn, and the About and Details modals.
+
+- Playback controls along the top will include Start, newGame and buttons.
+
+- On the left, there will be an expandable menu allowing the user to control the sound event transition matrix.
+
+- On the left near the bottom, will be an expandable menu allowing users to select the difficulty level.
