@@ -12,7 +12,7 @@ A super fun game to play. Pacman is a cute little guy that runs in 2-D direction
 Still in progress
 ````
 
-## information
+## Information
 
 - This game is built using Javascript, HTML5, Canvas
 
