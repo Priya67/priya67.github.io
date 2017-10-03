@@ -8,7 +8,7 @@ A super fun game to play. Pacman is a cute little guy that runs in 2-D direction
 
  <p>Link to play the game:</p>
 
-![play game](https://priya67.github.io)
+[play game](https://priya67.github.io)
 
 ## Information
 
