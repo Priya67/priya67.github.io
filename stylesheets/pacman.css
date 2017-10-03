@@ -2,3 +2,28 @@
   width: 100%;
   height: auto;
 }*/
+
+/*#pacman {
+  position: absolute;
+  z-index: 100;
+}*/
+pacman {
+  position: fixed;
+  height: auto;
+}
+
+button {
+  height: 30px;
+  width: 100px;
+  margin: 20px;
+  margin-top: 0px;
+  border-radius: 5px;
+  color: green;
+  font-size: 15px;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
