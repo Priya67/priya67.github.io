@@ -12,6 +12,11 @@ pacman {
   height: auto;
 }
 
+body {
+  display: flex;
+
+}
+
 button {
   height: 30px;
   width: 100px;
@@ -20,10 +25,10 @@ button {
   border-radius: 5px;
   color: green;
   font-size: 15px;
+
 }
 
 div {
-  display: flex;
-  align-items: center;
+  vertical-align: middle;
   justify-content: center;
 }
