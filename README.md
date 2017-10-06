@@ -19,14 +19,14 @@ A super fun game to play. Pacman is a cute little guy that runs in 2-D direction
 
 - When you collect the cool red ball, it appreciates
 <p align="center"><img width=80% heigth="300px"
-  src=""https://github.com/Priya67/priya67.github.io/blob/master/images/Screen%20Shot%202017-10-06%20at%2011.41.07%20AM.png>
+  src="https://github.com/Priya67/priya67.github.io/blob/master/images/Screen%20Shot%202017-10-06%20at%2011.41.07%20AM.png" >
 </p>
 <br>
 
 - When you collect all coins without getting killed by the monsters
 <p align="center"><img width=80% heigth="300px"
   src="https://github.com/Priya67/priya67.github.io/blob/master/images/Screen%20Shot%202017-10-06%20at%2011.42.45%20AM.png" >
-  </p>
+</p>
   <br>
 
 - When you collide with a monster
